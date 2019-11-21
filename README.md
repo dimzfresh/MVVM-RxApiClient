@@ -1,2 +1,2 @@
-# varakush-ios-cashier
+# MVVM+RxApiClient
 

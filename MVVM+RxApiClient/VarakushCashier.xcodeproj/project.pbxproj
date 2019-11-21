@@ -102,7 +102,7 @@
 		5A8F435C234A4958007FB89F /* UIDevice+ModelType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIDevice+ModelType.swift"; sourceTree = "<group>"; };
 		5A8F4360234A4B0A007FB89F /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 		5A8F4365234A4DFA007FB89F /* KeychainManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeychainManager.swift; sourceTree = "<group>"; };
-		5AB57EBB231C5E4F00A22A8C /* VarakushCashier.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VarakushCashier.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AB57EBB231C5E4F00A22A8C /* MVVM+RxApiClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MVVM+RxApiClient.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AB57EBE231C5E4F00A22A8C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5AB57EC0231C5E4F00A22A8C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5AB57EC3231C5E4F00A22A8C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -337,7 +337,7 @@
 		5AB57EBC231C5E4F00A22A8C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5AB57EBB231C5E4F00A22A8C /* VarakushCashier.app */,
+				5AB57EBB231C5E4F00A22A8C /* MVVM+RxApiClient.app */,
 				5AB57ECF231C5E5100A22A8C /* VarakushCashierTests.xctest */,
 			);
 			name = Products;
@@ -448,7 +448,7 @@
 			);
 			name = VarakushCashier;
 			productName = VarakushCashier;
-			productReference = 5AB57EBB231C5E4F00A22A8C /* VarakushCashier.app */;
+			productReference = 5AB57EBB231C5E4F00A22A8C /* MVVM+RxApiClient.app */;
 			productType = "com.apple.product-type.application";
 		};
 		5AB57ECE231C5E5100A22A8C /* VarakushCashierTests */ = {
@@ -825,7 +825,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ru.VarakushCashier;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "MVVM+RxApiClient";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -844,7 +844,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ru.VarakushCashier;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "MVVM+RxApiClient";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
