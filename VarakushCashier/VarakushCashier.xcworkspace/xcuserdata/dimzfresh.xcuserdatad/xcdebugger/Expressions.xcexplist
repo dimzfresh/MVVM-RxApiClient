@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in APIClient.process&lt;A&gt;(_:):APIClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.error">
+            </PersistentString>
+            <PersistentString
+               value = "String(data: data, encoding: .utf8)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "APIClient.process&lt;A&gt;(_:):APIClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkRequest.url">
+            </PersistentString>
+            <PersistentString
+               value = "networkRequest.parameters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.enterButtonTapped(_:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel">
+            </PersistentString>
+            <PersistentString
+               value = "viewModel.email.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginViewModel.request():LoginViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Thread.isMainThread">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

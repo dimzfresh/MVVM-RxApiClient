@@ -1,0 +1,6 @@
+framework module Pods_VarakushCashierTests {
+  umbrella header "Pods-VarakushCashierTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
